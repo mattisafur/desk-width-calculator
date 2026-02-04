@@ -1,2 +1,3 @@
+ipykernel
+ipywidgets
 sympy==1.14.0
-
